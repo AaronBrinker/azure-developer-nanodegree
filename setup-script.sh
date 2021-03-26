@@ -1,7 +1,7 @@
 #!/bin/bash
 # Variables
-resourceGroup="performance-rg"
-location="westeurope"
+resourceGroup="acdnd-c4-project"
+location="westus2"
 osType="UbuntuLTS"
 vmssName="udacity-vmss"
 adminName="udacityadmin"
